@@ -4,4 +4,4 @@
 
 ⬩ If you have any questions, feel free to contact!
 
-  Currently working on updating adwaitapod with accessibility features.
+  Currently working on pebble watchfaces and adwaitapod
