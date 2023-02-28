@@ -4,4 +4,4 @@
 
 ⬩ If you have any questions, feel free to contact!
 
-  Currently working on pebble watchfaces and adwaitapod
+  Currently learning GTK and producing new iPod projects
